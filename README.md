@@ -77,5 +77,4 @@ You can customize your Vite project by editing the `vite.config.js` file. Here's
 
 This project is licensed under the [MIT License](LICENSE).
 
-
 Feel free to contribute to this project by submitting issues or pull requests!
