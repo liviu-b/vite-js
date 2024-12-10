@@ -10,7 +10,6 @@ Welcome to the **Vite + JavaScript** documentation! This guide will help you set
 - **Optimized Build**: Pre-configured Rollup ensures efficient production builds.
 - **Rich Ecosystem**: Supports modern JavaScript, TypeScript, JSX, and more.
 - **Extensible**: Easily extend with plugins and custom configurations.
-
 ---
 
 ## 📖 Table of Contents
